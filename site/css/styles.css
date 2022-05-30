@@ -1,0 +1,15 @@
+body{
+	font-size: 16px;
+	color: #FFF;
+	background-color: #325699;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#title-menu{
+	color: #000000;
+	font-size: 32px;
+}
+
+#toggleMobileMenu{
+	background-color: #dddddd;
+}
